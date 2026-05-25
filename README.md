@@ -1,4 +1,4 @@
-
+tsconfig.app.json::::::::::::::::::::::::::::::::::::::::::::::::::
 ## 📊 TypeScript Configuration Summary
 
 ### 🎯 Output & Target
@@ -37,3 +37,19 @@
 | Setting | Value |
 |---------|-------|
 | **include** | `src/` folder |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tsconfig.node.json:::::::::::::::::::::::::::::::::::::::::
