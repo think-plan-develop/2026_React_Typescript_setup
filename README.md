@@ -96,7 +96,7 @@ tsconfig.node.json:::::::::::::::::::::::::::::::::::::::::
 | **noFallthroughCasesInSwitch** | Prevents accidental switch-case fallthrough |
 
 ---
-
+ 
 ## 📁 **Project Scope**
 | Setting | Purpose |
 |---------|---------|
