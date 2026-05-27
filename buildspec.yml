@@ -17,6 +17,7 @@ artifacts:
   files:
     - '**/*'
   base-directory: dist
+  name: frontend-build
 
 cache:
   paths:
